@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @manas1907
 - 👀 I’m interested in writing and coding
 - 🌱 I’m currently learning in UPES 
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Google.
 - 📫 Connect me on _manas19_
 
 <!---
