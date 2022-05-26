@@ -10,7 +10,7 @@
     <div class ="w3-container w3-cursive w3-center"
     <p>Just fond of coding,currently experimenting on Python,Java,HTML,CSS.Looking forward for a Full Stack Developer🤑. One day!</p>
   <h3>Focusing on:</h3>
-    <p>I'm trying to work on JS,Bootstrap. Btw looking for a front-end designer we will meet soon.</p>
+    <p>I'm trying to work on JS, Bootstrap. Btw looking for a front-end designer we will meet soon.</p>
     </div>
     <hr>
     <p>Find me here👇👇:
