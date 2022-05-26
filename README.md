@@ -14,7 +14,7 @@
     <p>Connect with me:
       <hr>
       <a href = "https://mail.google.com/mail/u/0/?tab=rm&ogbl"target = "_main"><img src = "https://i.pinimg.com/originals/74/fd/dc/74fddc59eefc5018c34914ecc934654a.png"height = "60"></a>
-    <a href = "instagram.com/_manas19_"target = "_main"><img src = "https://i.pinimg.com/originals/17/76/0a/17760a6daad2edf7f4d9b837b5437246.jpg"height = "60"></a>
+    <a href = "instagram.com"target = "_main"><img src = "https://i.pinimg.com/originals/17/76/0a/17760a6daad2edf7f4d9b837b5437246.jpg"height = "60"></a>
      
   </body>
 </html>
