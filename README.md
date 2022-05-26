@@ -7,7 +7,7 @@
   <body>
       <h1 class="title">Hi,<img src = "https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" height = "50">Manas here!</h1>
     <hr>
-    <div class ="w3-container w3-cursive"
+    <div class ="w3-container w3-cursive w3-center"
     <p>Just fond of coding,currently experimenting on Python,Java,HTML,CSS.Looking forward for Full Stack Developer🤑. One day!</p>
     </div>
     <hr>
