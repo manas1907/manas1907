@@ -1,8 +1,14 @@
-- 👋 Hi, I’m @manas1907
-- 👀 I’m interested in writing and coding
-- 🌱 I’m currently learning in UPES 
-- 💞️ I’m looking to collaborate on Google.
-- 📫 Connect me on _manas19_
+<!DOCTYPE html>
+<html>
+  <head>
+    <title></title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+      <h1 class="title">Hi,<img src = "https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif">Manas here!</h1>
+     
+  </body>
+</html>
 
 <!---
 manas1907/manas1907 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
