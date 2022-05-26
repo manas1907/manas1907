@@ -5,7 +5,7 @@
     <link rel="stylesheet" href="styles.css" />
   </head>
   <body>
-      <h1 class="title">Hi,<img src = "https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif">Manas here!</h1>
+      <h1 class="title">Hi,<img src = "https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" height = "100">Manas here!</h1>
      
   </body>
 </html>
