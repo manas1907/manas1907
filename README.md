@@ -12,7 +12,7 @@
     <p>Connect with me:
       <hr>
       <a href = "https://mail.google.com/mail/u/0/?tab=rm&ogbl"target = "_main"><img src = "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202010/Google_Gmail_New_Logo_India_To_1200x768.jpeg?WgdQ3Tx7r4ZssTpgfxm1Iwb5KMAG8S4A&size=1200:675"height = "60"></a>
-    <a href = ""
+    <a href = "instagram.com/_manas19_"target = "_main"><img src = ""
      
   </body>
 </html>
