@@ -10,7 +10,8 @@
     <p>Just fond of coding,currently experimenting on Python,Java,HTML,CSS.Looking forward for Full Stack Developer🤑</p>
     <hr>
     <p>Connect with me:
-      <a href = "https://mail.google.com/mail/u/0/?tab=rm&ogbl"target = "_main"><img src = "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202010/Google_Gmail_New_Logo_India_To_1200x768.jpeg?WgdQ3Tx7r4ZssTpgfxm1Iwb5KMAG8S4A&size=1200:675"height = "100"></a>
+      <hr>
+      <a href = "https://mail.google.com/mail/u/0/?tab=rm&ogbl"target = "_main"><img src = "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202010/Google_Gmail_New_Logo_India_To_1200x768.jpeg?WgdQ3Tx7r4ZssTpgfxm1Iwb5KMAG8S4A&size=1200:675"height = "60"></a>
      
   </body>
 </html>
