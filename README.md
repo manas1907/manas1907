@@ -19,9 +19,10 @@
      <a href = "https://mail.google.com/mail/u/0/?tab=rm&ogbl"target = "_main"><img src = "https://i.pinimg.com/originals/74/fd/dc/74fddc59eefc5018c34914ecc934654a.png"height = "60"></a>
       <hr>
       <h2>Language and Tools</h2>
-      <a><img src = "https://vegibit.com/wp-content/uploads/2014/06/html.png"height = "80"><img src="https://i.pinimg.com/originals/d5/b9/3b/d5b93bad3c10cc5b92b47e4678598548.jpg"height = "60"><img src ="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png"height = "60">
-      
-      
+      <a><img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/CSS3_and_HTML5_logos_and_wordmarks.svg/1200px-CSS3_and_HTML5_logos_and_wordmarks.svg.png"height = "80">
+      <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/2048px-Python-logo-notext.svg.png"height = "60">
+      <img src = "https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/1200px-Java_programming_language_logo.svg.png"height = "80">
+      <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png"height = "60"
       
   
   </body>
